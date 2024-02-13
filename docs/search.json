@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBeyond Multiple Linear Regression\n\n\n\ntextbooks\n\n\ngeneralized linear models\n\n\nmultilevel models\n\n\n\nApplied Generalized Linear Models and Multilevel Models in R\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul Roback",
+    "section": "",
+    "text": "Professor of Statistics and Data Science  MSCS Department @ St. Olaf College\n\n\nPhD in Statistics 1998 | Colorado State University\nMS in Statistics 1991 | Iowa State University\nBA in Math and Economics with Statistics concentration 1989 | St. Olaf College"
+  },
+  {
+    "objectID": "index.html#paul-roback",
+    "href": "index.html#paul-roback",
+    "title": "Paul Roback",
+    "section": "",
+    "text": "Professor of Statistics and Data Science  MSCS Department @ St. Olaf College\n\n\nPhD in Statistics 1998 | Colorado State University\nMS in Statistics 1991 | Iowa State University\nBA in Math and Economics with Statistics concentration 1989 | St. Olaf College"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Spring 2024\n\nMSCS 264: Data Science 2 course website\nSTAT 272: Statistics 2"
+  },
+  {
+    "objectID": "projects/BMLR/index.html",
+    "href": "projects/BMLR/index.html",
+    "title": "Beyond Multiple Linear Regression",
+    "section": "",
+    "text": "This is the online version of Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R. Hard copies can be purchased through CRC Press or on Amazon.\n\nDescription\nBeyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R (R Core Team 2020) is intended to be accessible to undergraduate students who have successfully completed a regression course through, for example, a textbook like Stat2 (Cannon et al. 2019). We started teaching this course at St. Olaf College in 2003 so students would be able to deal with the non-normal, correlated world we live in. It has been offered at St. Olaf every year since. Even though there is no mathematical prerequisite, we still introduce fairly sophisticated topics such as likelihood theory, zero-inflated Poisson, and parametric bootstrapping in an intuitive and applied manner. We believe strongly in case studies featuring real data and real research questions; thus, most of the data in the textbook (and available at our GitHub repo) arises from collaborative research conducted by the authors and their students, or from student projects. Our goal is that, after working through this material, students will develop an expanded toolkit and a greater appreciation for the wider world of data and statistical modeling."
+  }
+]

@@ -1,0 +1,10 @@
+---
+title: "Courses"
+sidebar: false
+---
+
+### Spring 2024
+
+- MSCS 264: Data Science 2 [course website](https://proback.github.io/264_fall_2024/)
+- STAT 272: Statistics 2
+

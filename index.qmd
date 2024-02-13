@@ -1,0 +1,42 @@
+---
+title: ""
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:roback@stolaf.edu
+    - icon: github
+      href: https://github.com/proback
+---
+
+:::{#intro-heading}
+
+## Paul Roback
+
+Professor of Statistics and Data Science <br>
+[MSCS Department](https://wp.stolaf.edu/mscs/) @ [St. Olaf College](https://wp.stolaf.edu/)
+
+### Education
+
+PhD in Statistics<br>
+1998 | Colorado State University
+
+MS in Statistics<br>
+1991 | Iowa State University
+
+BA in Math and Economics with Statistics concentration<br>
+1989 | St. Olaf College
+:::
+
+### Get in Touch
+
+**Email**: <a href='mailto:roback@stolaf.edu'>roback at stolaf.edu</a>
+
+**Office**: Regents Hall of Mathematical Sciences, Room 506
+
+**Address**: 1520 St. Olaf Ave, Northfield, MN 55057
+
+**Phone**: 507-786-3861
